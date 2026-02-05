@@ -1,17 +1,18 @@
 ---
-id: 3166
-title: 从七牛对象存储下载备份文件
-date: 2018-09-26T19:18:03+08:00
-author: chonghua
-layout: post
-guid: http://hechonghua.com/?p=3166
-permalink: /backup-qiniu/
-Baidusubmit:
-  - "1"
-categories:
-  - 网络资源
+title: 骑牛
+author: your name
+pubDatetime: 2022-09-21T05:17:19Z
+slug: the-title-of-the-post
+featured: true
+draft: false
 tags:
-  - 七牛
+  - some
+  - example
+  - tags
+ogImage: ../../assets/images/example.png # src/assets/images/example.png
+# ogImage: "https://example.org/remote-image.png" # remote URL
+description: This is the example description of the example post.
+canonicalURL: https://example.org/my-article-was-already-posted-here
 ---
 好久没有关注过七牛的动态了，最近七牛将原来的二级域名变成了测试域名，且过了时间会自动删除。删除就删除吧，好歹给人家一个下载备份的机会啊。按照官方给的qshell工具，需要绑定有效的域名，域名都删除了，所以这个工具无法使用，日志显示No domains found for bucket。
 
