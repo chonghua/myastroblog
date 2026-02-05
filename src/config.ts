@@ -13,7 +13,7 @@ export const SITE = {
   showBackButton: true, // show back button in post detail
   editPost: {
     enabled: true,
-    text: "Edit page",
+    text: "编辑",
     url: "https://github.com/chonghua/myastroblog/edit/main/",
   },
   dynamicOgImage: true,
